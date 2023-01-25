@@ -1,0 +1,22 @@
+body {
+	background: black;
+}
+
+.clock {
+	color: red;
+	font-size: 350px;
+	font-family: Arial;
+	letter-spacing: 7px;
+}
+
+.ampm {
+	color: #17D4FE;
+	font-size: 180px;
+	font-family: Arial;
+}
+
+.date {
+	color: white;
+	font-size: 180px;
+	font-family: Arial;
+}
